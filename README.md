@@ -10,7 +10,6 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 
 </div>
 
-<hr>
 
 <h2>🚀 Platforms & Companies</h2>
 
