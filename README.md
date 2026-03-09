@@ -11,6 +11,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 </div>
 
 
+
 <h2>🚀 Platforms & Companies</h2>
 
 <ul>
@@ -22,7 +23,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 <li>🌐 <a href="https://chandrabhansingh.in/">Personal Portfolio</a></li>
 </ul>
 
-<hr>
+
 
 <h2>💻 Technologies & Skills</h2>
 
@@ -73,7 +74,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge"/>
 </p>
 
-<hr>
+
 
 <h2>📈 Digital Marketing Expertise</h2>
 
@@ -88,7 +89,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 <li>Marketing Automation</li>
 </ul>
 
-<hr>
+
 
 <h2>📊 GitHub Stats</h2>
 
@@ -102,7 +103,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 
 </p>
 
-<hr>
+
 
 <h2>🤝 Connect With Me</h2>
 
@@ -116,7 +117,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 
 </p>
 
-<hr>
+
 
 <div align="center">
 
