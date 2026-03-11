@@ -1,33 +1,34 @@
 <div align="center">
 
-<h1>Hi 👋 I'm Chandrabhan Singh</h1>
+# 👋 Hi, I'm Chandrabhan Singh
 
-<h3>Founder | Web Developer | Digital Marketing Strategist</h3>
+### 🚀 Founder | Web Developer | Digital Marketing Strategist
 
-<p>
-Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, scalable websites, SaaS products and marketing systems that help businesses grow online.
-</p>
+Building **scalable websites, SaaS platforms, and growth systems** that help businesses succeed in the digital world.
+
+Founder of **Asha Webtech IT Solutions Pvt Ltd** and multiple technology platforms focused on development, marketing, and automation.
 
 </div>
 
+---
 
+# 🚀 Platforms & Companies
 
-<h2>🚀 Platforms & Companies</h2>
+| Platform                                                                        | Description                                     |
+| ------------------------------------------------------------------------------- | ----------------------------------------------- |
+| 🌐 **[Asha Webtech IT Solutions Pvt Ltd](https://ashawebtechitsolutions.com/)** | Web Development & Digital Marketing Agency      |
+| 🌐 **[CodeTunix Technologies](https://codetunix.com/)**                         | Premium Web & App Development Agency            |
+| 🌐 **[Vansh Technologies](https://vanshtechnologies.in/)**                      | IT Solutions & Software Development             |
+| 🌐 **[Marketing Tech](https://marketingtech.in/)**                              | Digital Marketing & Growth Solutions            |
+| 🌐 **[AlgoTrivo](https://algotrivo.com/)**                                      | Technology & Software Solutions                 |
+| 🌐 **[LeadMappo](https://leadmappo.com/)**                                      | Lead Generation & Marketing Automation Platform |
+| 🌐 **[Personal Portfolio](https://chandrabhansingh.in/)**                       | Founder Profile & Work                          |
 
-<ul>
-<li>🌐 <a href="https://ashawebtechitsolutions.com/">Asha Webtech IT Solutions Pvt Ltd</a> – Web Development & Digital Marketing Agency</li>
-<li>🌐 <a href="https://vanshtechnologies.in/">Vansh Technologies</a> – IT Solutions & Software Development</li>
-<li>🌐 <a href="https://marketingtech.in/">Marketing Tech</a> – Digital Marketing & Growth Solutions</li>
-<li>🌐 <a href="https://algotrivo.com/">AlgoTrivo</a> – Technology & Software Solutions</li>
-<li>🌐 <a href="https://leadmappo.com/">LeadMappo</a> – Lead Generation & Marketing Automation Platform</li>
-<li>🌐 <a href="https://chandrabhansingh.in/">Personal Portfolio</a></li>
-</ul>
+---
 
+# 💻 Technologies & Skills
 
-
-<h2>💻 Technologies & Skills</h2>
-
-<h3>Frontend Development</h3>
+### Frontend Development
 
 <p>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -39,7 +40,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap"/>
 </p>
 
-<h3>Backend Development</h3>
+### Backend Development
 
 <p>
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php"/>
@@ -48,7 +49,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge"/>
 </p>
 
-<h3>Database</h3>
+### Database
 
 <p>
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql"/>
@@ -56,7 +57,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql"/>
 </p>
 
-<h3>CMS & Platforms</h3>
+### CMS & Platforms
 
 <p>
 <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress"/>
@@ -64,7 +65,7 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 <img src="https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify"/>
 </p>
 
-<h3>Cloud & Tools</h3>
+### Cloud & Tools
 
 <p>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git"/>
@@ -74,24 +75,22 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 <img src="https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge"/>
 </p>
 
+---
 
+# 📈 Digital Marketing Expertise
 
-<h2>📈 Digital Marketing Expertise</h2>
+✔ Technical SEO
+✔ Programmatic SEO
+✔ Google Ads
+✔ Facebook Ads
+✔ Social Media Marketing
+✔ Conversion Rate Optimization
+✔ Lead Generation Systems
+✔ Marketing Automation
 
-<ul>
-<li>Technical SEO</li>
-<li>Programmatic SEO</li>
-<li>Google Ads</li>
-<li>Facebook Ads</li>
-<li>Social Media Marketing</li>
-<li>Conversion Rate Optimization</li>
-<li>Lead Generation Systems</li>
-<li>Marketing Automation</li>
-</ul>
+---
 
-
-
-<h2>📊 GitHub Stats</h2>
+# 📊 GitHub Stats
 
 <p align="center">
 
@@ -103,24 +102,32 @@ Founder of <b>Asha Webtech IT Solutions Pvt Ltd</b> building digital platforms, 
 
 </p>
 
+---
 
+# 🤝 Connect With Me
 
-<h2>🤝 Connect With Me</h2>
+🌐 **Agency Website**
+https://ashawebtechitsolutions.com/
 
-<p>
+🌐 **Portfolio**
+https://chandrabhansingh.in/
 
-🌐 Website : https://ashawebtechitsolutions.com/ <br>
-🌐 Portfolio : https://chandrabhansingh.in/ <br>
-🌐 Marketing Platform : https://marketingtech.in/ <br>
-🌐 Technology Platform : https://vanshtechnologies.in/ <br>
-🌐 SaaS Platform : https://leadmappo.com/ <br>
+🌐 **CodeTunix Technologies**
+https://codetunix.com/
 
-</p>
+🌐 **Marketing Platform**
+https://marketingtech.in/
 
+🌐 **Technology Platform**
+https://vanshtechnologies.in/
 
+🌐 **SaaS Platform**
+https://leadmappo.com/
+
+---
 
 <div align="center">
 
-<h3>🚀 Building Technology + Marketing Systems That Drive Real Business Growth</h3>
+### 🚀 Building Technology + Marketing Systems That Drive Real Business Growth
 
 </div>
