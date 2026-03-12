@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Chandrabhan Singh
+# 👋 Hi, I'm Chandrabhan Singh Dhakad
 
 ### Founder | Web Developer | Digital Marketing Strategist
 
