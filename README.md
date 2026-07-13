@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chandrabhan Singh Dhakad
 
-### Founder | Web Developer | Digital Marketing Strategist
+### Founder | Full Stack Developer | SaaS Product Builder | AI ML
 
 I build **scalable websites, SaaS platforms, marketing systems, and automation tools** that help businesses grow online.
 
