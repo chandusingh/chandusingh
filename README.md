@@ -86,42 +86,31 @@ Founder of **Asha Webtech IT Solutions Pvt Ltd** and multiple digital platforms 
 
 ## 💻 Tech Stack
 
-**Frontend**
+<div align="center">
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+**Frontend**
+<br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap" alt="Frontend stack" />
 
 **Backend**
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+<br/>
+<img src="https://skillicons.dev/icons?i=php,nodejs,express" alt="Backend stack" />
 
 **Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres" alt="Database stack" />
 
 **CMS & Platforms**
-
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+<br/>
+<img src="https://skillicons.dev/icons?i=wordpress" alt="CMS platforms" />
+<br/>
+<sub>WooCommerce · Shopify (no dedicated icon in this set — listed above in Services)</sub>
 
 **Cloud & Tools**
+<br/>
+<img src="https://skillicons.dev/icons?i=git,github,firebase,cloudflare" alt="Cloud and tools" />
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
-![Hostinger](https://img.shields.io/badge/Hostinger-673DE6?style=for-the-badge&logo=hostinger&logoColor=white)
+</div>
 
 ---
 
@@ -129,14 +118,16 @@ Founder of **Asha Webtech IT Solutions Pvt Ltd** and multiple digital platforms 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=chandusingh&show_icons=true&theme=radical&hide_border=true" width="49%" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=chandusingh&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" width="49%" alt="GitHub Stats" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandusingh&theme=radical&hide_border=true" width="49%" alt="GitHub Streak" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandusingh&layout=compact&theme=radical&hide_border=true" width="49%" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandusingh&layout=compact&theme=radical&hide_border=true&cache_seconds=86400" width="49%" alt="Top Languages" />
 
 </div>
 
-> ⚠️ Replace `chandusingh` above with your actual GitHub username if it's different, or the stat cards won't render.
+> ⚠️ **Two things to check if these don't render:**
+> 1. Replace `chandusingh` above with your actual GitHub username if it's different.
+> 2. The stats/top-langs cards are served from the free public `github-readme-stats.vercel.app` instance, which is community-run and gets rate-limited often — that's why they may show as a broken/blue link even when your username is correct (the streak card is a separate service and usually still loads). If they stay broken, [deploy your own free copy on Vercel](https://github.com/anuraghazra/github-readme-stats#deploy-on-your-own) and swap the domain in the two URLs above with your own deployment's URL.
 
 ---
 
