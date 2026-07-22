@@ -129,8 +129,6 @@ Founder of **Asha Webtech IT Solutions Pvt Ltd** and multiple digital platforms 
 
 # 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chandusingh\&show_icons=true\&theme=radical)
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=chandusingh\&theme=radical)
 
 ---
