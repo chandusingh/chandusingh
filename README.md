@@ -1,13 +1,10 @@
-<!-- ============ HEADER ============ -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:7C3AED,40:FF3D7F,75:FF9E0B,100:00D2FF&height=240&section=header&text=Chandrabhan%20Singh%20Dhakad&fontSize=50&fontColor=ffffff&fontAlignY=40&desc=Founder%20%E2%80%A2%20Full%20Stack%20Developer%20%E2%80%A2%20SaaS%20Builder%20%E2%80%A2%20AI%2FML&descAlignY=62&descSize=18&animation=twinkling" width="100%"/>
-</p>
+# 👋 Hi, I'm Chandrabhan Singh Dhakad
 
-<p align="center">
-  <a href="https://chandrabhansingh.in/">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=24&duration=3000&pause=900&color=FF3D7F&center=true&vCenter=true&width=760&height=50&lines=Hi+%F0%9F%91%8B+I'm+Chandrabhan+Singh+Dhakad;Founder+of+Asha+WebTech+IT+Solutions;I+build+SaaS%2C+CRMs+%26+Android+Apps;MERN+%7C+Next.js+%7C+PHP+%7C+WordPress;SEO+%26+Growth+Systems+that+scale+%F0%9F%93%88" alt="Typing SVG"/>
-  </a>
-</p>
+### Founder | Full Stack Developer | SaaS Product Builder | AI ML
+
+I build **scalable websites, SaaS platforms, marketing systems, and automation tools** that help businesses grow online.
+
+Founder of **Asha Webtech IT Solutions Pvt Ltd** and multiple digital platforms focused on **technology, software development, and digital marketing growth systems.**
 
 <p align="center">
   <a href="https://chandrabhansingh.in/"><img src="https://img.shields.io/badge/Portfolio-chandrabhansingh.in-7C3AED?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
